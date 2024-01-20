@@ -7,5 +7,5 @@ This includes **Routing, Optimising fonts and images, Databases with Postgres & 
 ## Trying out the app
 
 Head to [invoice-dashboard-psi.vercel.app](https://invoice-dashboard-psi.vercel.app/) and use login details:<br>
-Username: `user@nextmail.com` <br>
-Password: `123456`
+Username: `seamus@designbarn.co.uk` <br>
+Password: `fawltya`
